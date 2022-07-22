@@ -1,4 +1,4 @@
-# Mecatronica-TEST
+# Pruebas
 Repositorio de prueba usando Git con VsCode
 
 Hola mundo
